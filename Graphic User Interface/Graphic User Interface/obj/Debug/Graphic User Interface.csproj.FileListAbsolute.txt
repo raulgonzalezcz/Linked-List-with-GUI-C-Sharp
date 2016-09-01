@@ -1,0 +1,27 @@
+c:\users\raúl\documents\visual studio 2013\Projects\Graphic User Interface\Graphic User Interface\bin\Debug\Graphic User Interface.exe.config
+c:\users\raúl\documents\visual studio 2013\Projects\Graphic User Interface\Graphic User Interface\bin\Debug\Graphic User Interface.exe
+c:\users\raúl\documents\visual studio 2013\Projects\Graphic User Interface\Graphic User Interface\bin\Debug\Graphic User Interface.pdb
+c:\users\raúl\documents\visual studio 2013\Projects\Graphic User Interface\Graphic User Interface\obj\Debug\Graphic User Interface.csprojResolveAssemblyReference.cache
+c:\users\raúl\documents\visual studio 2013\Projects\Graphic User Interface\Graphic User Interface\obj\Debug\Graphic_User_Interface.Form1.resources
+c:\users\raúl\documents\visual studio 2013\Projects\Graphic User Interface\Graphic User Interface\obj\Debug\Graphic_User_Interface.Properties.Resources.resources
+c:\users\raúl\documents\visual studio 2013\Projects\Graphic User Interface\Graphic User Interface\obj\Debug\Graphic User Interface.csproj.GenerateResource.Cache
+c:\users\raúl\documents\visual studio 2013\Projects\Graphic User Interface\Graphic User Interface\obj\Debug\Graphic User Interface.exe
+c:\users\raúl\documents\visual studio 2013\Projects\Graphic User Interface\Graphic User Interface\obj\Debug\Graphic User Interface.pdb
+C:\Users\Raúl\Desktop\Assingment1\Graphic User Interface\Graphic User Interface\bin\Debug\Graphic User Interface.exe.config
+C:\Users\Raúl\Desktop\Assingment1\Graphic User Interface\Graphic User Interface\obj\Debug\Graphic User Interface.exe
+C:\Users\Raúl\Desktop\Assingment1\Graphic User Interface\Graphic User Interface\obj\Debug\Graphic User Interface.pdb
+C:\Users\Raúl\Desktop\Assingment1\Graphic User Interface\Graphic User Interface\bin\Debug\Graphic User Interface.exe
+C:\Users\Raúl\Desktop\Assingment1\Graphic User Interface\Graphic User Interface\bin\Debug\Graphic User Interface.pdb
+C:\Users\Raúl\Desktop\Assingment1\Graphic User Interface\Graphic User Interface\obj\Debug\Graphic User Interface.csprojResolveAssemblyReference.cache
+C:\Users\Raúl\Desktop\Assingment1\Graphic User Interface\Graphic User Interface\obj\Debug\Graphic_User_Interface.Properties.Resources.resources
+C:\Users\Raúl\Desktop\Assingment1\Graphic User Interface\Graphic User Interface\obj\Debug\Graphic User Interface.csproj.GenerateResource.Cache
+C:\Users\Raúl\Desktop\Assingment1\Graphic User Interface\Graphic User Interface\obj\Debug\Graphic_User_Interface.Interface.resources
+C:\Users\Raúl\Desktop\Assingment2\Graphic User Interface\Graphic User Interface\bin\Debug\Graphic User Interface.exe.config
+C:\Users\Raúl\Desktop\Assingment2\Graphic User Interface\Graphic User Interface\obj\Debug\Graphic User Interface.exe
+C:\Users\Raúl\Desktop\Assingment2\Graphic User Interface\Graphic User Interface\obj\Debug\Graphic User Interface.pdb
+C:\Users\Raúl\Desktop\Assingment2\Graphic User Interface\Graphic User Interface\bin\Debug\Graphic User Interface.exe
+C:\Users\Raúl\Desktop\Assingment2\Graphic User Interface\Graphic User Interface\bin\Debug\Graphic User Interface.pdb
+C:\Users\Raúl\Desktop\Assingment2\Graphic User Interface\Graphic User Interface\obj\Debug\Graphic User Interface.csprojResolveAssemblyReference.cache
+C:\Users\Raúl\Desktop\Assingment2\Graphic User Interface\Graphic User Interface\obj\Debug\Graphic_User_Interface.Interface.resources
+C:\Users\Raúl\Desktop\Assingment2\Graphic User Interface\Graphic User Interface\obj\Debug\Graphic_User_Interface.Properties.Resources.resources
+C:\Users\Raúl\Desktop\Assingment2\Graphic User Interface\Graphic User Interface\obj\Debug\Graphic User Interface.csproj.GenerateResource.Cache
